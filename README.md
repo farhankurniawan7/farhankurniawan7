@@ -1,93 +1,73 @@
-# Hi there 👋 I'm Farhan Kurniawan
+<div align="center">
 
-### Software Engineering Student | Backend Developer | Tech Enthusiast
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Farhan+Kurniawan;Software+Engineering+Student;Backend+Developer)](https://git.io/typing-svg)
 
-Passionate about backend engineering, REST API development, and scalable software systems.
-Currently focusing on building modern web applications with clean architecture and efficient development workflows.
+*Building robust, scalable backends and crafting elegant software architectures.*
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-## 🚀 About Me
-
-* 🎓 Software Engineering Student
-* 💻 Interested in Backend Development & Fullstack Engineering
-* ⚡ Learning FastAPI, React, Java, and Cloud Deployment
-* 🌱 Currently improving my skills in API integration, system design, and DevOps
-* 🎯 Goal: Become a professional Software Engineer
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-### Languages
+I am a Software Engineering student with a strong passion for backend engineering and system design. My focus is on building efficient, secure, and scalable server-side applications while maintaining a comprehensive understanding of fullstack web development. I believe in writing clean, maintainable code and architecting solutions that solve real-world problems.
 
-* Python
-* Java
-* JavaScript
-* SQL
-
-### Frontend
-
-* React
-* Vite
-* HTML
-* CSS
-
-### Backend
-
-* FastAPI
-* Flask
-* REST API
-
-### Database
-
-* MySQL
-* PostgreSQL
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* Vercel
-* DigitalOcean
-* VS Code
+- **Focus Areas:** Backend Engineering, REST API Development, Fullstack Web Development.
+- **Core Principles:** Clean Architecture, System Scalability, Code Maintainability.
+- **Philosophy:** A continuous learning mindset, always eager to adapt to modern frameworks, tools, and industry best practices.
 
 ---
 
-## 📌 Featured Projects
+## Tech Stack
 
-### 📚 MyShelf Book Web
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-Personal book management web application using Python backend and modern frontend technologies.
+**Frameworks & Libraries**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-### 🎉 Event Organizer CLI
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-CLI-based event organizer management system with API integration, strategy pattern, and modular architecture.
-
-### 🎓 Java MVC Student Management System
-
-Java MVC application integrated with MySQL database for managing student data.
-
-### 🌐 Portfolio Website
-
-My personal portfolio website built with React and deployed using Vercel.
-
-🔗 Portfolio:
-https://farhankurniawan-cv.vercel.app
-
----
-
-## 📈 GitHub Stats
-
-![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhankurniawan7\&show_icons=true)
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
-## 📫 Connect With Me
+## Featured Projects
 
-* GitHub: https://github.com/farhankurniawan7
-* Portfolio: https://farhankurniawan-cv.vercel.app
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **Portfolio Website** | A responsive, modern personal portfolio showcasing my professional journey, featured projects, and technical skills. | React, Vercel |
+| **Event Organizer CLI** | A lightweight command-line interface application designed to efficiently manage and track events and attendees. | Python |
+| **Student Management System** | A comprehensive application implementing the MVC architectural pattern for reliable academic record management. | Java, MySQL |
+| **MyShelf Book Web** | A fullstack web application for book discovery and collection management featuring seamless RESTful API integration. | JavaScript, Flask, PostgreSQL |
 
 ---
 
-⭐ Always learning, building, and improving.
+## GitHub Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=888888" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=888888" alt="GitHub Streak" width="48%" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=888888" alt="Top Languages" width="60%" />
+</div>
+
+---
+
+<div align="center">
+  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
+</div>
