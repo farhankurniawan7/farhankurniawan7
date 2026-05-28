@@ -1,190 +1,73 @@
 <div align="center">
 
-<!-- HERO SECTION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Farhan+Kurniawan;Software+Engineering+Student;Backend+Developer)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+*Building robust, scalable backends and crafting elegant software architectures.*
 
-<br/>
-
-```
-◈  SOFTWARE ENGINEERING STUDENT  ◈  BACKEND DEVELOPER  ◈
-```
-
-<br/>
-
-# Farhan Kurniawan
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=800&color=8B9FBF&center=true&vCenter=true&multiline=false&repeat=true&width=520&lines=Building+scalable+backend+systems.;Designing+clean%2C+maintainable+architectures.;Turning+ideas+into+working+software.;Always+learning%2C+always+shipping." alt="Typing SVG" />
-
-<br/>
-
-<p align="center" style="max-width: 580px; margin: 0 auto;">
-I'm a Software Engineering student focused on backend development — <br/>
-building APIs that are clean, fast, and built to last.
-</p>
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-farhankurniawan.dev-0f0f0f?style=flat-square&logo=vercel&logoColor=white)](https://farhankurniawan.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/farhankurniawan)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:farhan@email.com)
-
-<br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
 
 ---
 
-<!-- ABOUT ME -->
-
 ## About Me
 
-```python
-class FarhanKurniawan:
+I am a Software Engineering student with a strong passion for backend engineering and system design. My focus is on building efficient, secure, and scalable server-side applications while maintaining a comprehensive understanding of fullstack web development. I believe in writing clean, maintainable code and architecting solutions that solve real-world problems.
 
-    role        = "Software Engineering Student"
-    focus       = ["Backend Development", "REST API Design", "Fullstack Web"]
-    principles  = ["Clean Architecture", "Readable Code", "Meaningful Abstractions"]
-    currently   = "Building production-grade projects & deepening system design fundamentals"
-    mindset     = "Consistent, curious, and committed to the craft"
-```
-
-I care about writing code that's not just functional — but **maintainable, thoughtful, and well-structured**. My primary interest lies in backend engineering: designing RESTful APIs, working with databases, and building systems where each layer has a clear, deliberate role.
-
-I'm also comfortable on the frontend when the project calls for it, with experience building full-stack web applications end-to-end. Outside of projects, I'm constantly learning — whether that's studying design patterns, reading documentation, or shipping something new.
+- **Focus Areas:** Backend Engineering, REST API Development, Fullstack Web Development.
+- **Core Principles:** Clean Architecture, System Scalability, Code Maintainability.
+- **Philosophy:** A continuous learning mindset, always eager to adapt to modern frameworks, tools, and industry best practices.
 
 ---
 
-<!-- TECH STACK -->
-
 ## Tech Stack
 
-**Languages**
-
+**Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Frameworks & Libraries**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+**Frameworks & Libraries**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Tools & Platforms**
-
+**Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 
 ---
-
-<!-- FEATURED PROJECTS -->
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Portfolio Website
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/farhankurniawan/portfolio)
-[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel)](https://farhankurniawan.dev)
-
-Personal portfolio designed and built from scratch. Clean, minimal, and optimized for performance — serving as a professional landing page for recruiters and collaborators.
-
-`JavaScript` `React` `Vercel`
-
-</td>
-<td width="50%" valign="top">
-
-### Event Organizer CLI
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/farhankurniawan/event-organizer-cli)
-
-A command-line event management tool built in Python. Handles event creation, attendee tracking, and scheduling logic — with a focus on clean program structure and separation of concerns.
-
-`Python` `CLI` `OOP`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Java MVC Student Management System
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/farhankurniawan/student-management-java)
-
-A desktop application implementing the MVC design pattern in Java. Manages student records with proper model-view-controller separation, demonstrating understanding of structured OOP design.
-
-`Java` `MVC` `OOP`
-
-</td>
-<td width="50%" valign="top">
-
-### MyShelf — Book Management Web App
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/farhankurniawan/myshelf)
-
-A full-stack web app for personal book tracking. Built with a RESTful Flask backend and a React frontend, backed by a PostgreSQL database.
-
-`Python` `Flask` `React` `PostgreSQL`
-
-</td>
-</tr>
-</table>
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **Portfolio Website** | A responsive, modern personal portfolio showcasing my professional journey, featured projects, and technical skills. | React, Vercel |
+| **Event Organizer CLI** | A lightweight command-line interface application designed to efficiently manage and track events and attendees. | Python |
+| **Student Management System** | A comprehensive application implementing the MVC architectural pattern for reliable academic record management. | Java, MySQL |
+| **MyShelf Book Web** | A fullstack web application for book discovery and collection management featuring seamless RESTful API integration. | JavaScript, Flask, PostgreSQL |
 
 ---
 
-<!-- GITHUB STATS -->
-
-## GitHub Stats
+## GitHub Metrics
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=farhankurniawan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8b9fbf&icon_color=8b9fbf&text_color=c9d1d9&hide=issues" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhankurniawan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8b9fbf&text_color=c9d1d9&langs_count=6" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=farhankurniawan&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=8b9fbf&ring=8b9fbf&fire=c9a84c&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b9fbf&sideLabels=8b9fbf&dates=555e7a" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=888888" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=888888" alt="GitHub Streak" width="48%" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=888888" alt="Top Languages" width="60%" />
 </div>
 
 ---
 
-<!-- CONTACT -->
-
-## Let's Connect
-
-I'm open to internship opportunities, collaborative projects, and conversations about software engineering.
-
-| | |
-|---|---|
-| **Portfolio** | [farhankurniawan.dev](https://farhankurniawan.dev) |
-| **LinkedIn** | [linkedin.com/in/farhankurniawan](https://linkedin.com/in/farhankurniawan) |
-| **GitHub** | [@farhankurniawan](https://github.com/farhankurniawan) |
-| **Email** | farhan@email.com |
-
----
-
-<!-- FOOTER -->
-
 <div align="center">
-
-<br/>
-
-```
-"First, solve the problem. Then, write the code."
-```
-
-<sub>— John Johnson</sub>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
-
+  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
 </div>
